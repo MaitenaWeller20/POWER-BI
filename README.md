@@ -1,5 +1,7 @@
 # POWER-BI - Dashboard ficticio de Ventas E-commerce - PyME Argentina 📈
+<img width="480" height="272" alt="1" src="https://github.com/user-attachments/assets/1d71b050-0958-48ce-bd30-da570f29ecc7" />
 <img width="563" height="302" alt="2" src="https://github.com/user-attachments/assets/91109c39-8709-44d8-8bfa-382b2d373970" />
+<img width="559" height="302" alt="3" src="https://github.com/user-attachments/assets/a8b27088-a42b-4d1c-97cd-d4f7ebddb61a" />
 
 **Descripción del Proyecto**
 Este repositorio contiene un tablero de control interactivo desarrollado en Power BI para analizar el rendimiento comercial de una PyME de E-commerce en Argentina. El análisis abarca un histórico de datos ficticios (2024-2026) diseñado para simular escenarios reales de ventas, estacionalidad y jerarquías de productos.
